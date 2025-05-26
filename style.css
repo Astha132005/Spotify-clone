@@ -426,7 +426,7 @@ a{
     padding: 0 0.5rem;
   }
   .music-player .player {
-  width: 60%;
+  width: 70%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -444,8 +444,8 @@ a{
   }
 
   .music-player .album-cover {
-    height: 2.5rem !important;
-    width: 2.5rem !important;
+    height: 2.5rem ;
+    width: 2.5rem ;
     margin: 0;
   }
 
